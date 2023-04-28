@@ -1,0 +1,15 @@
+/Users/ianmanda/Documents/IIE/PROG6221POE/bin/Debug/net7.0/PROG6221POE
+/Users/ianmanda/Documents/IIE/PROG6221POE/bin/Debug/net7.0/PROG6221POE.deps.json
+/Users/ianmanda/Documents/IIE/PROG6221POE/bin/Debug/net7.0/PROG6221POE.runtimeconfig.json
+/Users/ianmanda/Documents/IIE/PROG6221POE/bin/Debug/net7.0/PROG6221POE.dll
+/Users/ianmanda/Documents/IIE/PROG6221POE/bin/Debug/net7.0/PROG6221POE.pdb
+/Users/ianmanda/Documents/IIE/PROG6221POE/obj/Debug/net7.0/PROG6221POE.csproj.AssemblyReference.cache
+/Users/ianmanda/Documents/IIE/PROG6221POE/obj/Debug/net7.0/PROG6221POE.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ianmanda/Documents/IIE/PROG6221POE/obj/Debug/net7.0/PROG6221POE.AssemblyInfoInputs.cache
+/Users/ianmanda/Documents/IIE/PROG6221POE/obj/Debug/net7.0/PROG6221POE.AssemblyInfo.cs
+/Users/ianmanda/Documents/IIE/PROG6221POE/obj/Debug/net7.0/PROG6221POE.csproj.CoreCompileInputs.cache
+/Users/ianmanda/Documents/IIE/PROG6221POE/obj/Debug/net7.0/PROG6221POE.dll
+/Users/ianmanda/Documents/IIE/PROG6221POE/obj/Debug/net7.0/refint/PROG6221POE.dll
+/Users/ianmanda/Documents/IIE/PROG6221POE/obj/Debug/net7.0/PROG6221POE.pdb
+/Users/ianmanda/Documents/IIE/PROG6221POE/obj/Debug/net7.0/PROG6221POE.genruntimeconfig.cache
+/Users/ianmanda/Documents/IIE/PROG6221POE/obj/Debug/net7.0/ref/PROG6221POE.dll
